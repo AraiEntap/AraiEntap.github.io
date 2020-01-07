@@ -1,7 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed3baac-b4b0-47a5-8fbb-bf8247bf590d" name="Default Changelist" comment="" />
+    <list default="true" id="bed3baac-b4b0-47a5-8fbb-bf8247bf590d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/phpcs.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Authentication/AccessToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Authentication/AccessTokenMetadata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Authentication/OAuth2Client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookAuthenticationException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookAuthorizationException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookClientException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookOtherException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResumableUploadException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookSDKException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookServerException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookThrottleException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Facebook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FacebookApp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FacebookBatchRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FacebookBatchResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FacebookRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FileUpload/FacebookFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FileUpload/FacebookResumableUploader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FileUpload/FacebookTransferChunk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FileUpload/FacebookVideo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/FileUpload/Mimetypes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/Birthday.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/Collection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphAchievement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphAlbum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphCoverPhoto.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphEdge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphGroup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphLocation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphNode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphNodeFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphObject.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphObjectFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphPicture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphSessionInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/GraphNodes/GraphUser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookCanvasHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookJavaScriptHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookPageTabHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookSignedRequestFromInputHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Http/GraphRawResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Http/RequestBodyInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Http/RequestBodyMultipart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Http/RequestBodyUrlEncoded.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/FacebookCurl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/FacebookCurlHttpClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/FacebookHttpClientInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/FacebookStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/FacebookStreamHttpClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/HttpClientsFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/HttpClients/certs/DigiCertHighAssuranceEVRootCA.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PersistentData/PersistentDataFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PersistentData/PersistentDataInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PseudoRandomString/McryptPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PseudoRandomString/OpenSslPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PseudoRandomString/PseudoRandomStringGeneratorFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PseudoRandomString/PseudoRandomStringGeneratorInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PseudoRandomString/PseudoRandomStringGeneratorTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PseudoRandomString/RandomBytesPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/PseudoRandomString/UrandomPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/SignedRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Url/FacebookUrlDetectionHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Url/FacebookUrlManipulator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/Url/UrlDetectionInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/graph-sdk/src/Facebook/polyfills.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/phpcs.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Authentication/AccessToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Authentication/AccessTokenMetadata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Authentication/OAuth2Client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookSDKException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Facebook.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FacebookApp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FacebookClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FacebookRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FacebookResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookFile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookResumableUploader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookTransferChunk.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/Mimetypes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/Birthday.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/Collection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphAchievement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphAlbum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphCoverPhoto.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphEdge.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphGroup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphLocation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphNode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphNodeFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphObject.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphObjectFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphPage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphPicture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphSessionInfo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/GraphNodes/GraphUser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookRedirectLoginHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookSignedRequestFromInputHelper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Http/GraphRawResponse.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Http/RequestBodyInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Http/RequestBodyMultipart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Http/RequestBodyUrlEncoded.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookHttpClientInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/HttpClientsFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/certs/DigiCertHighAssuranceEVRootCA.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/PersistentDataFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/PersistentDataInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PseudoRandomString/McryptPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PseudoRandomString/OpenSslPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PseudoRandomString/PseudoRandomStringGeneratorFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PseudoRandomString/PseudoRandomStringGeneratorInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PseudoRandomString/PseudoRandomStringGeneratorTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PseudoRandomString/RandomBytesPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/PseudoRandomString/UrandomPseudoRandomStringGenerator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/SignedRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlManipulator.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/Url/UrlDetectionInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/facebook/php-sdk-v4/src/Facebook/polyfills.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +191,15 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W3Vhi7OEgAiBGY2T9oHMRWhjmd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -47,10 +232,22 @@
       <option name="presentableId" value="Default" />
       <updated>1578378385721</updated>
       <workItem from="1578378387043" duration="3120000" />
+      <workItem from="1578383900726" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
